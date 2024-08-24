@@ -1963,10 +1963,13 @@ margin: 0 150px 70px 150px;
 .ipp-2
 {
   position: relative;
-  bottom: 90px;
-  left: 20px;
+  bottom: 80px;
+  left: 5px;
 }
-
+.ipp-2 > h5 
+{
+  font-size: 1rem;
+}
 
 
 
